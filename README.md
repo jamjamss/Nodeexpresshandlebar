@@ -16,13 +16,14 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 ## Demo the App
 
-- [Eat-Da-Burger App](https://github.com/jamjamss/Nodeexpresshandlebar)
+- [Eat-Da-Burger App](http://burgerappnodeexpress.herokuapp.com/)
 
 ## Author
 
 ### Nadirah Jama
 
-- [GitHub Profile](https://github.com/jamjamss)
+- [GitHub Profile](https://github.com/jamjamss/Nodeexpresshandlebar)
+
 
 
 ## Contributing
